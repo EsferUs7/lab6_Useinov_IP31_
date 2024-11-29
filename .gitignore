@@ -1,2 +1,13 @@
 /instance
 /lab-6-env
+
+*.pyc
+__pycache__/
+
+*.log
+
+.env
+
+*.db
+
+.cache/
